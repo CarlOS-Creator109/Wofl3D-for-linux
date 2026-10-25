@@ -1,0 +1,17 @@
+# datos del juego: NO se pueden redistribuir, son de id Software / ZeniMax
+*.WL6
+*.WL1
+*.SOD
+*.SDM
+*.wl6
+*.wl1
+*.sod
+*.sdm
+*.EXE
+*.exe
+
+# cosas que genera la compilacion
+*.o
+AppDir/
+appimagetool-x86_64.AppImage
+wolfsave*.sav
